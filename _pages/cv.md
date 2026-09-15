@@ -9,56 +9,37 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+## 教育背景
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* **南京大学**，新闻与传播专业硕士研究生，2026.09 – 2029.06（已录取）
+  * 报考方向：国际传播（专硕）
+  * 初试成绩：402（政治71、英语83、专一121、专二127）
+* **兰州大学**，广告学专业本科生，2022.09 – 2026.06
+  * 主修课程：传播学概论（97）、广告学概论（95）、社交媒体营销（95）、广告策划与创意（95）
+  * 在校表现：平均绩点 3.95，专业排名 6/28；获优秀学生奖学金 1 次、优秀学生干部 1 次、优秀共青团员 1 次
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+## 竞赛获奖
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **中国大学生广告艺术节学院奖 · 策划案优秀奖（2次）**
+  * 2023.12 桃花姬营销策划：围绕“国风养生、妆食同源”的产品特点，针对 18–35 岁年轻女性，策划贯穿春分至端午的整合营销活动。通过“中式养生 + 汉服文化 + 节日情感”三条主线，联动 Keep 八段锦、汉服主题快闪店、地铁广告及端午限定礼盒，强化“让你的生活锦上添花”的品牌心智。
+  * 2024.12 太极藿香营销策划：围绕“太极好搭档，助你度过每一站”主题，聚焦高考、旅行、军训三大场景。高考加油站联合老百姓大药房提供公益服务；旅行呵护站联动去哪儿旅行推出“旅行健康礼盒”；军训补给站与海底捞联名推出“藿香和你健康捞”套餐，塑造年轻化品牌形象。
+* **中国大学生公共关系策划创业大赛 · 优秀奖（1次）**
+  * 主导完成珀莱雅公关传播方案策划，锻炼了信息调研、逻辑梳理及团队协作能力。
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+## 实践经历
+
+* **杭州校宝在线公司**，新媒体运营实习生，2026.01 – 2026.02
+  * 私域引流与用户增长：深入研究教培行业获客成本高、信任建立难、转化周期长等痛点，精准输出朋友圈文案 130 余篇；同步运营小红书账号，围绕教培机构运营需求产出内容 30 篇，总浏览量超 1.5 万；通过多渠道内容引导，单月实现精准用户沉淀 160 余人。
+  * 多渠道内容矩阵搭建：主导公司内容矩阵的搭建与运营，负责重大活动现场采访、素材采集与内容二次创作。独立完成参会老师专访、视频拍摄、剪辑及后期制作，累计产出短视频作品 20 余条，同步分发至微信视频号、抖音等平台，总播放量超 5 万。
+
+## 个人实践
+
+* **独立运营小红书账号**，2023.12 – 2024.12
+  * 账号定位与冷启动：精准洞察本校及本市大学生群体在“学习繁忙”“追求性价比”场景下的餐饮需求，从零开始将账号定位为学校周边及城市内美食外卖探店，成功切入垂直领域。
+  * 内容策划与创作：独立完成从选题、探店、拍摄、图文编辑到发布的全部流程，熟练运用 PS、可画制作封面及配图。
+  * 数据分析与增长：通过分析小红书后台数据，不断优化发布策略与内容形式，累计发布笔记 20+ 篇，实现总浏览量 9 万+，单篇笔记最高浏览量 3.9 万+，总互动量 1.2 万+。
+
+## 技能证书
+
+* **语言能力**：大学生英语六级证书，良好的听说读写能力
+* **通用技能**：计算机二级考试证书，熟练使用 Word、Excel、PowerPoint 等办公软件；熟练使用 PS、可画、创可贴等软件制作图片；熟练使用 PR、剪映等进行视频剪辑
