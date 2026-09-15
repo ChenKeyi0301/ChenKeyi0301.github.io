@@ -1,7 +1,18 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "桃花姬整合营销策划案"
+excerpt: "中国大学生广告艺术节学院奖策划案优秀奖"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+**时间**：2023.12
+
+**项目概述**：
+围绕桃花姬“国风养生、妆食同源”的产品特点，针对 18–35 岁年轻女性，策划贯穿春分至端午的整合营销活动。通过“中式养生 + 汉服文化 + 节日情感”三条主线，强化“让你的生活锦上添花”的品牌心智。
+
+**核心执行**：
+- 预热期：联动 Keep 八段锦，连续打卡可获定制奖牌，传递“内服外修”的养生理念。
+- 爆发期：设置汉服主题快闪店，并在 5 月 25 日谐音“我爱我”的关键节点投放地铁广告及品牌宣传片《不要忘记爱自己》。
+- 续热期：推出端午限定礼盒，并联动 KOL 推广送礼场景。
+
+**最终成果**：
+该策划案获得中国大学生广告艺术节学院奖 2023 秋季征集大赛优秀奖。
